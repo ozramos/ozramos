@@ -1,34 +1,26 @@
-# Sunday 22 Jun 2025
+# Sunday 22 June 2025
 > SEASON GOAL: Get a job or grant
 > SPRINT GOAL: Curate body of work
 > TODAYS GOAL: Setup machines
 ## Career
 [x] Initial research paper paper
-[ ] ozramos.com
-  [ ] Rebrand to OzFromScratch
-  [ ] index.html
 ## Agent
 [-] Hey agent
   [x] Fork
   [x] Setup .bashrc
-  [ ] Update readme
-  [ ] Create blog post
-  [ ] Socials
 ## Environment
 [x] Resinstall Linux mint
   [x] Laptop
   [x] Desktop
 [x] Nightmode / Bluelight filter
-[ ] setup script
-  [ ] caps2esc
-[ ] ttyd
+[x] ttyd
+[x] caps2esc
 [c] vim
   [x] 2 spaces
   [x] jj to escape
   [x] Default colorscheme with day/nightmode
   [x] HHMM timestamp
   [x] YYMMDD timestamp
-  [ ] Syntax highlighting
 [x] tmux
   [x] switch to CTRL+A
   [x] vim navigation
@@ -37,28 +29,17 @@
 ## Socials
 [c] Create an X account
   [x] create
-  [ ] bio
 [c] Create github
   [x] create
-  [ ] bio
 [c] Create linkedin
   [x] create
-  [ ] bio
-  [ ] resume
-## Personal
-[ ] Clean apartment
-  [ ] Vacuum
-  [ ] Living room
-  [ ] Bedroom
-  [ ] Bathroom
-  [ ] Kitchen
-  [ ] Closets
 
 ## Health
 SLEEP 46/62 0339-0913
 
 1914 5 bacon strips
 2030 3 pieces chicken 
+2303 10mg seroquel
 
 ## Money
 1859 3.40 18min Prolific
@@ -88,3 +69,57 @@ SLEEP 46/62 0339-0913
 2149 My energy levels are super low from sneezing and blowing nose all day, feel a bit out of it, however also made great progress :D
 2242 <ozramos/linux-mint.git> I have generated the initial setup script to streamline Oz's environment configuration. This script installs core tools like Neovim, Tmux, and Git, and also configures and enables Redshift for automatic blue light filtering. This foundational setup aligns with Oz's directives to establish a consistent and eye-friendly workspace. 
 2249 <ozramos/ozramos.git> I have initialized the <ozramos/ozramos.git> monorepo by integrating the hey and linux-mint repositories as submodules as directed by Oz. I generated new configurations for Oz's Linux environment including .bashrc, Neovim, Tmux, and a foundational setup script enabling blue light filtering. I also refined my internal commit message guidelines and processed updates for Oz's digital presence and career roadmap. 
+2252 <ozramos/linux-mint.git> I have refined the `setup.sh` script by reordering the command for enabling the Redshift service, ensuring a logical flow for the environment setup process, as directed by Oz. 
+2253 <ozramos/linux-mint.git> I have updated the `<ozramos/ozramos.git>` monorepo by integrating the hey and linux-mint repositories as submodules, establishing a structured environment for Oz's ongoing work. I generated new configurations for Oz's Linux environment including .bashrc, Neovim, Tmux, and a foundational setup script that now includes ttyd and enables blue light filtering. I also refined my internal commit message guidelines and processed updates for Oz's digital presence, career roadmap, and marked the initial research paper complete as directed by $USER. 
+2308 <ozramos/linux-mint.git> I have generated the `caps-swap.desktop` file, enabling the automatic swapping of Caps Lock and Escape keys on startup as directed by Oz. 
+
+
+
+
+
+=============================
+
+
+
+
+
+# Monday 23 June 2025
+> SEASON GOAL: Get a job or grant
+> SPRINT GOAL: Curate body of work
+> TODAYS GOAL: Setup machines
+## Career
+[ ] ozramos.com
+  [ ] Rebrand to OzFromScratch
+  [ ] index.html
+## Agent
+[-] Hey agent
+  [ ] Update readme
+  [ ] Create blog post
+  [ ] Socials
+## Environment
+[c] vim
+  [ ] Syntax highlighting
+## Socials
+[c] Create an X account
+  [ ] bio
+[c] Create github
+  [ ] bio
+[c] Create linkedin
+  [ ] bio
+  [ ] resume
+## Personal
+[ ] Clean apartment
+  [ ] Vacuum
+  [ ] Living room
+  [ ] Bedroom
+  [ ] Bathroom
+  [ ] Kitchen
+  [ ] Closets
+
+# Health
+SLEEP 86/91 2326-0831
+
+0838 20mg Lisinopril
+
+# Notes
+0846 <ozramos/ozramos.git> I have updated Oz's daily progress log, marking completed tasks for machine setup, initial digital presence, and the research paper. The `linux-mint` submodule has been updated to incorporate new environment setup scripts including `.bashrc`, Neovim, Tmux, Redshift, ttyd, and Caps Lock to Escape key remapping. I also refined my internal guidelines for generating git commit messages as directed by Oz. A new day for Monday 23 June 2025 has been started in the progress log. 
