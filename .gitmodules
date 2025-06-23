@@ -1,0 +1,6 @@
+[submodule "hey"]
+	path = hey
+	url = git@github.com:ozramos/hey.git
+[submodule "linux-mint"]
+	path = linux-mint
+	url = git@github.com:ozramos/linux-mint.git
