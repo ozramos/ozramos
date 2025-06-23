@@ -8,7 +8,7 @@
   [ ] Rebrand to OzFromScratch
   [ ] index.html
 ## Agent
-[c] Hey agent
+[-] Hey agent
   [x] Fork
   [x] Setup .bashrc
   [ ] Update readme
@@ -18,6 +18,7 @@
 [x] Resinstall Linux mint
   [x] Laptop
   [x] Desktop
+[x] Nightmode / Bluelight filter
 [ ] setup script
   [ ] caps2esc
 [ ] ttyd
@@ -57,10 +58,12 @@
 SLEEP 46/62 0339-0913
 
 1914 5 bacon strips
+2030 3 pieces chicken 
 
 ## Money
 1859 3.40 18min Prolific
-2112 2.61 11min  Prolific
+2112 2.61 11min Prolific
+2148 0.67 2min  Prolific
 
 ## Bookmarks
 [ ] https://turso.tech/blog/working-on-databases-from-prison
@@ -82,3 +85,6 @@ SLEEP 46/62 0339-0913
 2139 <ozramos/linux-mint.git> I have generated the `dotfiles/.bashrc` file, establishing Oz's shell environment. This configuration includes essential aliases, defines key path variables for the Ozramos monorepo, and sets up custom functions for seamless interaction with the `hey` agent as directed by Oz. 
 2140 <ozramos/ozramos.git> I have initialized the monorepo by integrating the `hey` and `linux-mint` repositories as Git submodules, establishing a structured environment for Oz's ongoing work. This foundational setup allows for centralized management of Oz's projects as directed. I have also processed the latest updates to Oz's daily progress log. 
 2143 <ozramos/ozramos.git> I have processed the latest updates to Oz's daily progress, marking the initial research paper task as complete. Additionally, I have generated a comprehensive strategic roadmap for career re-entry, detailing narrative framing, digital presence, targeted job and grant opportunities, and a 90-day action plan, as directed by $USER. 
+2149 My energy levels are super low from sneezing and blowing nose all day, feel a bit out of it, however also made great progress :D
+2242 <ozramos/linux-mint.git> I have generated the initial setup script to streamline Oz's environment configuration. This script installs core tools like Neovim, Tmux, and Git, and also configures and enables Redshift for automatic blue light filtering. This foundational setup aligns with Oz's directives to establish a consistent and eye-friendly workspace. 
+2249 <ozramos/ozramos.git> I have initialized the <ozramos/ozramos.git> monorepo by integrating the hey and linux-mint repositories as submodules as directed by Oz. I generated new configurations for Oz's Linux environment including .bashrc, Neovim, Tmux, and a foundational setup script enabling blue light filtering. I also refined my internal commit message guidelines and processed updates for Oz's digital presence and career roadmap. 
