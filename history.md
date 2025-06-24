@@ -26,6 +26,7 @@
   [x] vim navigation
   [x] vim resize
   [x] mouse
+[ ] Brave browser
 ## Socials
 [c] Create an X account
   [x] create
@@ -99,13 +100,16 @@ SLEEP 46/62 0339-0913
 ## Environment
 [x] Fix git agent not focusing on current submodule
 [c] vim
-  [ ] Syntax highlighting
+  [c] Syntax highlighting
+  [x] Lazyvim
+  [x] Copilot
+  [x] Text complete
 [ ] ttyd
   [ ] Firewall rules for ttyd
   [ ] Simple login Credentials
 ## Socials
 [c] Create an X account
-  [ ] bio
+  [c] bio
 [c] Create github
   [ ] bio
 [c] Create linkedin
@@ -119,7 +123,7 @@ SLEEP 46/62 0339-0913
   [ ] Bathroom
   [ ] Kitchen
   [ ] Closets
-[c] Laundry
+[x] Laundry
 
 # Health
 SLEEP 86/91 2326-0831
@@ -133,9 +137,11 @@ SLEEP 86/91 2326-0831
 # Money
 1124 15.00 48min CloudConnect
 1415 3.00  15min Prolific
+1959 -8.00       X Premium
 
 # Bookmarks
 [ ] Super cool interactive algorithms book https://cartesian.app/
+[ ] Level design https://w.itch.io/level-design-lessons
 
 # Ideas
 1515 "Internet weather report" for memes and meme cycles
@@ -144,14 +150,21 @@ SLEEP 86/91 2326-0831
 0846 <ozramos/ozramos.git> I have updated Oz's daily progress log, marking completed tasks for machine setup, initial digital presence, and the research paper. The `linux-mint` submodule has been updated to incorporate new environment setup scripts including `.bashrc`, Neovim, Tmux, Redshift, ttyd, and Caps Lock to Escape key remapping. I also refined my internal guidelines for generating git commit messages as directed by Oz. A new day for Monday 23 June 2025 has been started in the progress log. 
 0932 Alright! Fuck yeah am feeling good and ready to start this journey
 1255 Posted my first pinned Tweet. I'll probably need a way to back these up locally:
->>>
-Day 1 - Been homeless for 10+ years
-Tried over 50 different startup ideas, built a few popular open source frameworks (10k+ stars), and 2 nonprofits
-All failed; but I myself am not a failure
-There's still time to "catch up" in life so gonna document my journey to getting a job
->>>
+> Day 1 - Been homeless for 10+ years
+> Tried over 50 different startup ideas, built a few popular open source frameworks (10k+ stars), and 2 nonprofits
+> All failed; but I myself am not a failure
+> There's still time to "catch up" in life so gonna document my journey to getting a job
+>
 1338 Spending a lot of time on X so want to make sure to avoid that, getting a considerable amount of views tho considering that im a new/free user
 1358 Crazy how I went and did laundry like it was nothing, but then other times I am overwhelmed with anxiety
 1715 <ozramos/.git> Updated my internal guidelines for generating git commit messages, focusing on conciseness and directness. I also updated the git.sh script to accurately identify the repository root using --work-tree for improved command processing. 
 1716 <ozramos/.git> I updated my internal guidelines for generating git commit messages and updated the git.sh script to enhance repository root identification. I updated the linux-mint submodule's environment setup script to include xsel and disable the ttyd service. 
 1752 <ozramos/.git> I have updated Oz's daily progress log, starting a new day for Monday 23 June 2025. I fixed the git agent's focus issue with submodules and refined my internal guidelines for generating git commit messages. I also updated the `git.sh` script for improved repository root identification, and modified the `linux-mint` submodule's environment setup to include `xsel` and disable the `ttyd` service. 
+1844 OK! Officially did laundry for the first time in 6 months lmfao
+2016 Started getting some likes on X and I've bought premium. Gonna lean into it bc I seem to have a lot to say even if it's not initially connecting with people. My profile might be cringe, not sure:
+> Been chronically homeless for 10+ years
+> Researching agentic QR Codes && generative operating systems for my metaverse
+>
+2159 <ozramos/modules.git> I ensure my git commit messages adhere to new, stricter guidelines that prevent mentioning the main monorepo unless editing `history.md` and explicitly exclude phrases like 'I have updated'. My `git.sh` script now correctly identifies the current repository, improving command processing within submodules. 
+2159 <ozramos/modules.git> I generated new configurations for Neovim, enabling LazyVim for plugin management and integrating Copilot, LSP support, and enhanced text completion. The environment setup script now includes Brave browser installation and ensures the latest Neovim AppImage is used, streamlining Oz's machine setup as directed. 
+2202 <ozramos/..git> I integrated Oz's recent progress into the monorepo. The `hey` submodule received refined git commit message guidelines and improved repository identification. The `linux-mint` submodule received new environment setup scripts for .bashrc, Neovim (including LazyVim, Copilot, and text completion), Tmux, Redshift, ttyd configuration, Caps Lock remapping, xsel, and Brave browser. 
