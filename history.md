@@ -97,8 +97,12 @@ SLEEP 46/62 0339-0913
   [ ] Create blog post
   [ ] Socials
 ## Environment
+[x] Fix git agent not focusing on current submodule
 [c] vim
   [ ] Syntax highlighting
+[ ] ttyd
+  [ ] Firewall rules for ttyd
+  [ ] Simple login Credentials
 ## Socials
 [c] Create an X account
   [ ] bio
@@ -115,11 +119,39 @@ SLEEP 46/62 0339-0913
   [ ] Bathroom
   [ ] Kitchen
   [ ] Closets
+[c] Laundry
 
 # Health
 SLEEP 86/91 2326-0831
 
 0838 20mg Lisinopril
+0932 10min stretching, coffee
+1015 coffee
+1241 15min walk
+1328 Nutty Puddy
+
+# Money
+1124 15.00 48min CloudConnect
+1415 3.00  15min Prolific
+
+# Bookmarks
+[ ] Super cool interactive algorithms book https://cartesian.app/
+
+# Ideas
+1515 "Internet weather report" for memes and meme cycles
 
 # Notes
 0846 <ozramos/ozramos.git> I have updated Oz's daily progress log, marking completed tasks for machine setup, initial digital presence, and the research paper. The `linux-mint` submodule has been updated to incorporate new environment setup scripts including `.bashrc`, Neovim, Tmux, Redshift, ttyd, and Caps Lock to Escape key remapping. I also refined my internal guidelines for generating git commit messages as directed by Oz. A new day for Monday 23 June 2025 has been started in the progress log. 
+0932 Alright! Fuck yeah am feeling good and ready to start this journey
+1255 Posted my first pinned Tweet. I'll probably need a way to back these up locally:
+>>>
+Day 1 - Been homeless for 10+ years
+Tried over 50 different startup ideas, built a few popular open source frameworks (10k+ stars), and 2 nonprofits
+All failed; but I myself am not a failure
+There's still time to "catch up" in life so gonna document my journey to getting a job
+>>>
+1338 Spending a lot of time on X so want to make sure to avoid that, getting a considerable amount of views tho considering that im a new/free user
+1358 Crazy how I went and did laundry like it was nothing, but then other times I am overwhelmed with anxiety
+1715 <ozramos/.git> Updated my internal guidelines for generating git commit messages, focusing on conciseness and directness. I also updated the git.sh script to accurately identify the repository root using --work-tree for improved command processing. 
+1716 <ozramos/.git> I updated my internal guidelines for generating git commit messages and updated the git.sh script to enhance repository root identification. I updated the linux-mint submodule's environment setup script to include xsel and disable the ttyd service. 
+1752 <ozramos/.git> I have updated Oz's daily progress log, starting a new day for Monday 23 June 2025. I fixed the git agent's focus issue with submodules and refined my internal guidelines for generating git commit messages. I also updated the `git.sh` script for improved repository root identification, and modified the `linux-mint` submodule's environment setup to include `xsel` and disable the `ttyd` service. 
