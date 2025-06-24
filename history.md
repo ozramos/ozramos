@@ -88,15 +88,6 @@ SLEEP 46/62 0339-0913
 > SEASON GOAL: Get a job or grant
 > SPRINT GOAL: Curate body of work
 > TODAYS GOAL: Setup machines
-## Career
-[ ] ozramos.com
-  [ ] Rebrand to OzFromScratch
-  [ ] index.html
-## Agent
-[-] Hey agent
-  [ ] Update readme
-  [ ] Create blog post
-  [ ] Socials
 ## Environment
 [x] Fix git agent not focusing on current submodule
 [c] vim
@@ -104,25 +95,11 @@ SLEEP 46/62 0339-0913
   [x] Lazyvim
   [x] Copilot
   [x] Text complete
-[ ] ttyd
-  [ ] Firewall rules for ttyd
-  [ ] Simple login Credentials
 ## Socials
-[c] Create an X account
-  [c] bio
-[c] Create github
-  [ ] bio
-[c] Create linkedin
-  [ ] bio
-  [ ] resume
+[x] Create an X account
+  [x] bio
+  [x] start tweet ideas
 ## Personal
-[ ] Clean apartment
-  [ ] Vacuum
-  [ ] Living room
-  [ ] Bedroom
-  [ ] Bathroom
-  [ ] Kitchen
-  [ ] Closets
 [x] Laundry
 
 # Health
@@ -133,6 +110,8 @@ SLEEP 86/91 2326-0831
 1015 coffee
 1241 15min walk
 1328 Nutty Puddy
+1630 chicken, rice, veggies
+2306 12.5mg seroquel
 
 # Money
 1124 15.00 48min CloudConnect
@@ -168,3 +147,58 @@ SLEEP 86/91 2326-0831
 2159 <ozramos/modules.git> I ensure my git commit messages adhere to new, stricter guidelines that prevent mentioning the main monorepo unless editing `history.md` and explicitly exclude phrases like 'I have updated'. My `git.sh` script now correctly identifies the current repository, improving command processing within submodules. 
 2159 <ozramos/modules.git> I generated new configurations for Neovim, enabling LazyVim for plugin management and integrating Copilot, LSP support, and enhanced text completion. The environment setup script now includes Brave browser installation and ensures the latest Neovim AppImage is used, streamlining Oz's machine setup as directed. 
 2202 <ozramos/..git> I integrated Oz's recent progress into the monorepo. The `hey` submodule received refined git commit message guidelines and improved repository identification. The `linux-mint` submodule received new environment setup scripts for .bashrc, Neovim (including LazyVim, Copilot, and text completion), Tmux, Redshift, ttyd configuration, Caps Lock remapping, xsel, and Brave browser. 
+
+
+
+
+
+=============================
+
+
+
+
+
+# Monday 23 June 2025
+> SEASON GOAL: Get a job or grant
+> SPRINT GOAL: Curate body of work
+> TODAYS GOAL: Setup machines
+## Career
+[ ] ozramos.com
+  [ ] Rebrand to OzFromScratch
+  [ ] index.html
+## Agent
+[-] Hey agent
+  [ ] Update readme
+  [ ] Create blog post
+  [ ] Socials
+## Environment
+[c] vim
+  [c] Syntax highlighting
+  [ ] Yank into main buffer
+[ ] ttyd
+  [ ] Firewall rules for ttyd
+  [ ] Simple login Credentials
+## Socials
+[-] Create github
+  [ ] bio
+[-] Create linkedin
+  [ ] bio
+  [ ] resume
+## Personal
+[ ] Clean apartment
+  [ ] Vacuum
+  [ ] Living room
+  [ ] Bedroom
+  [ ] Bathroom
+  [ ] Kitchen
+  [ ] Closets
+
+# Health
+SLEEP   84/93 2357-0801
+WEIGHT  184.4
+
+0850 morning stretching
+0900 coffee
+
+# Notes
+0942 <ozramos/..git> Updated the hey submodule. In history.md, marked X account creation and laundry as complete and refined the task list for Monday 23 June. Renamed the career strategy document to notes/research/Re-entering Tech Workforce Strategy_.md and generated notes/tweet-ideas.md. 
