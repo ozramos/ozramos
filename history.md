@@ -158,40 +158,18 @@ SLEEP 86/91 2326-0831
 
 
 
-# Monday 23 June 2025
+# Tuesday 23 June 2025
 > SEASON GOAL: Get a job or grant
 > SPRINT GOAL: Curate body of work
 > TODAYS GOAL: Setup machines
-## Career
-[ ] ozramos.com
-  [ ] index.html
 ## Agent
 [x] fix git agent
 [-] Hey agent
-  [ ] Update readme
-  [ ] Create blog post
-  [ ] Socials
+  [x] Update readme
 ## Environment
 [x] vim
   [x] Syntax highlighting
   [x] Yank into main buffer
-[ ] ttyd
-  [ ] Firewall rules for ttyd
-  [ ] Simple login Credentials
-## Socials
-[-] Create github
-  [ ] bio
-[-] Create linkedin
-  [ ] bio
-  [ ] resume
-## Personal
-[ ] Clean apartment
-  [ ] Vacuum
-  [ ] Living room
-  [ ] Bedroom
-  [ ] Bathroom
-  [ ] Kitchen
-  [ ] Closets
 
 # Health
 SLEEP   84/93 2357-0801
@@ -202,6 +180,8 @@ WEIGHT  184.4
 0956 25 pushups, 20x100 backrows, 20 squats
 1044 20x70 tri ext, 20x70 curls, 20x40 lat shoulder raise
 1124 nutty puddy
+1600 chicken, veggies, ramen
+2318 12.5mg seroquel
 
 # Money
 1040 6.80  28min CloudConnect
@@ -221,3 +201,57 @@ WEIGHT  184.4
 1453 <ozramos/linux-mint.git> I generated new Neovim configurations. This includes custom markdown syntax highlighting, code block injections, expanded Treesitter language support, and comprehensive key mappings for text manipulation and agent interaction. I also implemented robust undo history management, enabled the system clipboard, and refined time and date stamp mappings. 
 2133 <ozramos/hey.git> I refined the `git.sh` script to accurately identify the current repository root, ensuring improved command processing within both the main monorepo and its submodules. 
 2134 <ozramos/ozramos.git> The hey submodule now includes a refined `git.sh` script for accurate repository root identification. New Neovim configurations were generated within the linux-mint submodule, providing markdown syntax highlighting, Treesitter language support, comprehensive key mappings, system clipboard integration, and refined timestamp mappings. The linux-mint `bashrc` path was also adjusted. The git agent fix is complete, along with vim syntax highlighting and yank functionality. A career strategy document was renamed and tweet ideas were generated. 
+
+
+
+
+
+=============================
+
+
+
+
+
+# Wedsnsday 24 June 2025
+> SEASON GOAL: Get a job or grant
+> SPRINT GOAL: Curate body of work
+> TODAYS GOAL: Setup machines
+## Career
+[ ] ozramos.com
+  [ ] index.html
+## QRx
+[ ] Prepare repository
+  [ ] 
+## Agent
+[-] Hey agent
+  [ ] Create blog post
+  [ ] Socials
+## Socials
+[-] Create github
+  [ ] bio
+[-] Create linkedin
+  [ ] bio
+  [ ] resume
+## Personal
+[ ] Clean apartment
+  [ ] Vacuum
+  [ ] Living room
+  [ ] Bedroom
+  [ ] Bathroom
+  [ ] Kitchen
+  [ ] Closets
+
+# Health
+SLEEP   84/93 2357-0801
+WEIGHT  184.4
+
+0837 20mg lisinopril
+0900 morning stretches
+1000 pushups x30
+1001 coffee
+
+# Money
+0930 3.00 3min CloudConnect 
+
+# Notes
+1033 <ozramos/ozramos.git> I corrected the daily progress log to Tuesday 23 June 2025 and started a new day for Wedsnsday 24 June 2025, outlining new tasks for career, QRx, agent, socials, and personal goals. I recorded task completions for the git agent fix, Hey agent readme update, and vim configuration including syntax highlighting and yank functionality. 
