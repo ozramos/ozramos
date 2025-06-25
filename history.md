@@ -146,7 +146,7 @@ SLEEP 86/91 2326-0831
 >
 2159 <ozramos/modules.git> I ensure my git commit messages adhere to new, stricter guidelines that prevent mentioning the main monorepo unless editing `history.md` and explicitly exclude phrases like 'I have updated'. My `git.sh` script now correctly identifies the current repository, improving command processing within submodules. 
 2159 <ozramos/modules.git> I generated new configurations for Neovim, enabling LazyVim for plugin management and integrating Copilot, LSP support, and enhanced text completion. The environment setup script now includes Brave browser installation and ensures the latest Neovim AppImage is used, streamlining Oz's machine setup as directed. 
-2202 <ozramos/..git> I integrated Oz's recent progress into the monorepo. The `hey` submodule received refined git commit message guidelines and improved repository identification. The `linux-mint` submodule received new environment setup scripts for .bashrc, Neovim (including LazyVim, Copilot, and text completion), Tmux, Redshift, ttyd configuration, Caps Lock remapping, xsel, and Brave browser. 
+2202 <ozramos/ozramos.git> I integrated Oz's recent progress into the monorepo. The `hey` submodule received refined git commit message guidelines and improved repository identification. The `linux-mint` submodule received new environment setup scripts for .bashrc, Neovim (including LazyVim, Copilot, and text completion), Tmux, Redshift, ttyd configuration, Caps Lock remapping, xsel, and Brave browser. 
 
 
 
@@ -164,17 +164,17 @@ SLEEP 86/91 2326-0831
 > TODAYS GOAL: Setup machines
 ## Career
 [ ] ozramos.com
-  [ ] Rebrand to OzFromScratch
   [ ] index.html
 ## Agent
+[x] fix git agent
 [-] Hey agent
   [ ] Update readme
   [ ] Create blog post
   [ ] Socials
 ## Environment
-[c] vim
-  [c] Syntax highlighting
-  [ ] Yank into main buffer
+[x] vim
+  [x] Syntax highlighting
+  [x] Yank into main buffer
 [ ] ttyd
   [ ] Firewall rules for ttyd
   [ ] Simple login Credentials
@@ -199,6 +199,25 @@ WEIGHT  184.4
 
 0850 morning stretching
 0900 coffee
+0956 25 pushups, 20x100 backrows, 20 squats
+1044 20x70 tri ext, 20x70 curls, 20x40 lat shoulder raise
+1124 nutty puddy
+
+# Money
+1040 6.80  28min CloudConnect
+1200 1.75  2min  Prolific
+1906 20.00 1hr   Prolific
+
+# Bookmmarks
+[ ] Workbook for getting https://x.com/TylerAlterman/status/1937611981927964782
+[ ] Old account https://x.com/search?f=top&q=drbriefsscratch&src=typed_query
 
 # Notes
-0942 <ozramos/..git> Updated the hey submodule. In history.md, marked X account creation and laundry as complete and refined the task list for Monday 23 June. Renamed the career strategy document to notes/research/Re-entering Tech Workforce Strategy_.md and generated notes/tweet-ideas.md. 
+0942 <ozramos/ozramos.git> Updated the hey submodule. In history.md, marked X account creation and laundry as complete and refined the task list for Monday 23 June. Renamed the career strategy document to notes/research/Re-entering Tech Workforce Strategy_.md and generated notes/tweet-ideas.md. 
+1242 holy shit just got my first big follower this is incredibly validating to me because my bio mentions "homeless for over 10+ years lmao" and my first pinned tweet mentions not having done laundry in 6 months, and yet they followed me due to the deep/insightful posts. This is incredibly validating and if i can manage not to scare him away i might be able to leverage this to scale up to more followers. Will need to start posting genuinely insightful things but for now this is so great :D
+1257 Spending way too much time on X though, so gonna lock in
+1259 <ozramos/linux-mint.git> Adjusted the LINUX environment variable path in dotfiles/.bashrc to reflect the 'linux-mint' submodule name. 
+1316 <ozramos/linux-mint.git> I generated new Neovim configurations, including custom markdown syntax highlighting, code block injections, and expanded Treesitter language support. My setup now includes comprehensive key mappings for text manipulation and agent interaction, alongside robust undo history management, as directed by Oz. 
+1453 <ozramos/linux-mint.git> I generated new Neovim configurations. This includes custom markdown syntax highlighting, code block injections, expanded Treesitter language support, and comprehensive key mappings for text manipulation and agent interaction. I also implemented robust undo history management, enabled the system clipboard, and refined time and date stamp mappings. 
+2133 <ozramos/hey.git> I refined the `git.sh` script to accurately identify the current repository root, ensuring improved command processing within both the main monorepo and its submodules. 
+2134 <ozramos/ozramos.git> The hey submodule now includes a refined `git.sh` script for accurate repository root identification. New Neovim configurations were generated within the linux-mint submodule, providing markdown syntax highlighting, Treesitter language support, comprehensive key mappings, system clipboard integration, and refined timestamp mappings. The linux-mint `bashrc` path was also adjusted. The git agent fix is complete, along with vim syntax highlighting and yank functionality. A career strategy document was renamed and tweet ideas were generated. 
