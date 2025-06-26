@@ -1,3 +1,5 @@
+> Written by Grok
+
 # OzRamos Monorepo
 ![Screenshot_2025-06-25_09-16-29](https://github.com/user-attachments/assets/e0daa49e-1910-4adc-bfbc-616720598a56)
 
@@ -33,6 +35,10 @@ The Gnosis Copilot 100 Days Challenge is a structured sprint to curate Oz's deca
 **Progress**: As of June 25, 2025, the monorepo includes submodules for `linux-mint` (environment configs) and `hey` (git agent scripts), with recent commits adding Neovim syntax highlighting, LazyVim, and Brave browser integration.
 
 ### Handsfree.js
+> Handsfree js Intro Spring 2019.mp4
+
+https://github.com/user-attachments/assets/d3c4101f-b510-4ae8-b0ce-6b3d94235708
+
 A 2018 open-source framework for gesture-based interactions, enabling accessibility through plugin-based architecture. Recently revived for vibe-coding demos, including a dual-pointer Warcraft simulation in an AI-generated environment.  
 **Status**: Planned integration into QRx as a native application.
 
