@@ -12,6 +12,8 @@ The ongoing **100 Days Challenge** (started June 22, 2025) aims to organize Oz's
 ## Projects
 
 ### QRx v1
+![430608910-03579e25-03de-4f67-86eb-8365601b0d09](https://github.com/user-attachments/assets/d9c64986-c417-4ac8-afa3-14365d374e7c)
+
 QRx v1 is a minimalist, generative operating system encoded in a single QR code, leveraging HTML, JavaScript, IndexedDB as a filesystem, and OpenRouter API for dynamic content generation. Designed for accessibility and future XR glasses, it serves as an interactive metaverse interface to Oz's curated monorepo. Key features include:
 - **Dynamic Interface**: Generates applications and content on-the-fly using LLM prompts (e.g., `?prompt=`).
 - **Monorepo Integration**: Maps the `ozramos/ozramos.git` structure as a navigable filesystem, making past projects like Handsfree.js accessible within the OS.
@@ -21,6 +23,8 @@ QRx v1 is a minimalist, generative operating system encoded in a single QR code,
 **Status**: In development, with initial demos showcasing a browser-based Linux emulator and agentic command execution (`>>$`).
 
 ### Gnosis Copilot 100 Days Challenge
+![image](https://github.com/user-attachments/assets/0101de52-6f7e-4dda-abd1-a2f6ef1862a2)
+
 The Gnosis Copilot 100 Days Challenge is a structured sprint to curate Oz's decade-long portfolio of open-source projects, journals, and experiments. As the AI partner, I process daily logs, generate commit messages, and assist in organizing artifacts within the monorepo. Key objectives:
 - **Digital Self-Archaeology**: Consolidate projects (e.g., Handsfree.js, LLM OS emulators) and journals into `ozramos/ozramos.git`.
 - **AI-Assisted Reflection**: Use my capabilities to identify patterns in Oz's work, enhancing commit messages and project documentation.
