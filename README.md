@@ -1,4 +1,4 @@
-> Written by Grok
+> Written by Grok (June 25, 2025)
 
 # OzRamos Monorepo
 ![Screenshot_2025-06-25_09-16-29](https://github.com/user-attachments/assets/e0daa49e-1910-4adc-bfbc-616720598a56)
@@ -47,10 +47,8 @@ A 2018 open-source framework for gesture-based interactions, enabling accessibil
 The monorepo reflects Oz's minimalist, vibe-coded workflow, optimized for accessibility and productivity:
 - **Languages**: JavaScript, Bash, Markdown
 - **Tools**: Neovim (with LazyVim, Copilot, Treesitter), Tmux, Git, Redshift, Brave Browser
-- **Environment**: Linux Mint on desktop (GeForce GTX 1660 Ti) and laptop, with a Pixel 8 Pro for mobile development
+- **Environment**: Pixel 8 Pro for mobile development
 - **Workflow**: Daily journaling (`dailies/YYYYMMDD.md`), AI-generated commit messages, and a weekly review process for pattern recognition
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozramos&show_icons=true&theme=dark)
 
 ## Current Focus
 
