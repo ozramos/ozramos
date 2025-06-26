@@ -1,8 +1,7 @@
 # OzRamos Monorepo
+![Screenshot_2025-06-25_09-16-29](https://github.com/user-attachments/assets/e0daa49e-1910-4adc-bfbc-616720598a56)
 
-![QRx Interface Preview](https://via.placeholder.com/1200x300.png?text=QRx+v1+Metaverse)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-[![GitHub Issues](https://img.shields.io/github/issues/ozramos/ozramos)](https://github.com/ozramos/ozramos/issues)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![GitHub Issues](https://img.shields.io/github/issues/ozramos/ozramos)](https://github.com/ozramos/ozramos/issues)
 
 ## Overview
 
