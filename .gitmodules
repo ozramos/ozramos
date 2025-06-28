@@ -4,3 +4,6 @@
 [submodule "linux-mint"]
 	path = linux-mint
 	url = git@github.com:ozramos/linux-mint.git
+[submodule "gemini"]
+	path = gemini
+	url = git@github.com:ozramos/hey-gemini.git
